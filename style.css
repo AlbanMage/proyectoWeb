@@ -44,6 +44,15 @@ textarea {
     box-sizing: border-box;
     border: 1px solid #999;
 }
+
+.nombreEmpresa {
+    float: left;
+    font-size: 25px;
+    background-color: blueviolet;
+    color:#000;
+    font-weight: 70;
+    width: 100%;
+}
   
 input:focus,
 textarea:focus {
